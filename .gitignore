@@ -1,0 +1,11 @@
+Kredensial Google Clasp & Environment
+
+.clasprc.json
+.clasp.json
+.env
+
+Dependencies & OS Files
+
+node_modules/
+.DS_Store
+Thumbs.db
